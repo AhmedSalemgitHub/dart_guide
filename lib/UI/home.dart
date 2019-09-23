@@ -26,7 +26,7 @@ class _HomeState extends State<Home> {
         ),
       ),
       body: Container(
-        
+        child: Text("welcome"),
       ),
     );
   }
